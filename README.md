@@ -1,7 +1,7 @@
 osxtheme
 ========
 
-My theme for Mac OS X 10.9.1.
+My theme for Mac OS X 10.9.2
 Place in /System/Library/PrivateFrameworks/CoreUI.framework/Resources/      
 Make sure to backup your .bin files!
 
